@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+}
+.top{
+    overflow: hidden;
+    background-color: yellow;
+    display: block;
+    padding: 1px 1px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.top a{
+    display: block;
+    padding: 50px 20px; 
+}
+
+.middle{
+    display:block;
+    background-image: url('book.JPG');
+    background-repeat: no-repeat;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 1050px;
+    display:flex;
+    justify-content: center;
+    align-items:flex-end;
+    padding-bottom: 0%;
+}
+h1{
+    padding-left: 5%;
+    font-size:35px;
+ }
+h2{
+    color: white;
+    font-size: 70px;
+    display: flex;
+    justify-content: center; 
+}
+ .footer{
+    overflow: hidden;
+    background-color: yellow;
+    display: block;
+    padding: 30px 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.footer a{
+    display: block;
+    padding: 50px 20px; 
+}
+.p1{
+    font-size: 20px;
+}
+#p3{
+    display: flex;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 35px;
+    justify-content: center; 
+    font-weight: lighter;
+}
+#p2{
+    display: flex;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 15px;
+    justify-content: center;
+    
+}
+#p4{
+    display: flex;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 20px;
+    justify-content: center; 
+    font-weight: lighter;
+}
