@@ -28,7 +28,6 @@ body{
     display:flex;
     justify-content: center;
     align-items:flex-end;
-    padding-bottom: 0%;
 }
 h1{
     padding-left: 5%;
@@ -37,8 +36,7 @@ h1{
 h2{
     color: white;
     font-size: 70px;
-    display: flex;
-    justify-content: center; 
+    text-align: center; 
 }
  .footer{
     overflow: hidden;
